@@ -17,6 +17,7 @@
 #### *[重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)*
 
 #### *[ECMAScript 6 入门](http://es6.ruanyifeng.com/)*
+#### *[React Native的中文参考资料，包括开源库，文字/视频资料，相关工具等](https://github.com/LeoMobileDeveloper/ReactNativeMaterials)*
 
 
 > 项目初步计划基于最新版本开发：ReactNative 0.44版本，看文档的话也是看*[ReactNative中文网](http://reactnative.cn/)*这里的0.44版本的文档。
